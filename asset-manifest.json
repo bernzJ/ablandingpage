@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/bernzJ/ablandingpage.git/static/css/main.2b068952.chunk.css",
+    "main.js": "/bernzJ/ablandingpage.git/static/js/main.828bdb73.chunk.js",
+    "main.js.map": "/bernzJ/ablandingpage.git/static/js/main.828bdb73.chunk.js.map",
+    "runtime-main.js": "/bernzJ/ablandingpage.git/static/js/runtime-main.25d3b83a.js",
+    "runtime-main.js.map": "/bernzJ/ablandingpage.git/static/js/runtime-main.25d3b83a.js.map",
+    "static/css/2.76163712.chunk.css": "/bernzJ/ablandingpage.git/static/css/2.76163712.chunk.css",
+    "static/js/2.f2065476.chunk.js": "/bernzJ/ablandingpage.git/static/js/2.f2065476.chunk.js",
+    "static/js/2.f2065476.chunk.js.map": "/bernzJ/ablandingpage.git/static/js/2.f2065476.chunk.js.map",
+    "static/js/3.6bba8d33.chunk.js": "/bernzJ/ablandingpage.git/static/js/3.6bba8d33.chunk.js",
+    "static/js/3.6bba8d33.chunk.js.map": "/bernzJ/ablandingpage.git/static/js/3.6bba8d33.chunk.js.map",
+    "static/js/4.1de33dbc.chunk.js": "/bernzJ/ablandingpage.git/static/js/4.1de33dbc.chunk.js",
+    "static/js/4.1de33dbc.chunk.js.map": "/bernzJ/ablandingpage.git/static/js/4.1de33dbc.chunk.js.map",
+    "static/js/5.56974062.chunk.js": "/bernzJ/ablandingpage.git/static/js/5.56974062.chunk.js",
+    "static/js/5.56974062.chunk.js.map": "/bernzJ/ablandingpage.git/static/js/5.56974062.chunk.js.map",
+    "static/js/6.b3412d10.chunk.js": "/bernzJ/ablandingpage.git/static/js/6.b3412d10.chunk.js",
+    "static/js/6.b3412d10.chunk.js.map": "/bernzJ/ablandingpage.git/static/js/6.b3412d10.chunk.js.map",
+    "static/js/7.4d1c0c18.chunk.js": "/bernzJ/ablandingpage.git/static/js/7.4d1c0c18.chunk.js",
+    "static/js/7.4d1c0c18.chunk.js.map": "/bernzJ/ablandingpage.git/static/js/7.4d1c0c18.chunk.js.map",
+    "index.html": "/bernzJ/ablandingpage.git/index.html",
+    "precache-manifest.e77ee004a117981405f9954464e99d40.js": "/bernzJ/ablandingpage.git/precache-manifest.e77ee004a117981405f9954464e99d40.js",
+    "service-worker.js": "/bernzJ/ablandingpage.git/service-worker.js",
+    "static/css/2.76163712.chunk.css.map": "/bernzJ/ablandingpage.git/static/css/2.76163712.chunk.css.map",
+    "static/css/main.2b068952.chunk.css.map": "/bernzJ/ablandingpage.git/static/css/main.2b068952.chunk.css.map",
+    "static/media/1.png": "/bernzJ/ablandingpage.git/static/media/1.e697b395.png",
+    "static/media/2.png": "/bernzJ/ablandingpage.git/static/media/2.657c5f88.png",
+    "static/media/3.png": "/bernzJ/ablandingpage.git/static/media/3.23e07df1.png",
+    "static/media/Logo.png": "/bernzJ/ablandingpage.git/static/media/Logo.a74649dd.png",
+    "static/media/commercial.png": "/bernzJ/ablandingpage.git/static/media/commercial.5a3dff32.png",
+    "static/media/competitif.png": "/bernzJ/ablandingpage.git/static/media/competitif.a4397843.png",
+    "static/media/parallax.jpg": "/bernzJ/ablandingpage.git/static/media/parallax.4fce06c2.jpg",
+    "static/media/residential.png": "/bernzJ/ablandingpage.git/static/media/residential.9b0944f3.png",
+    "static/media/snowblower.png": "/bernzJ/ablandingpage.git/static/media/snowblower.b50746f5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25d3b83a.js",
+    "static/css/2.76163712.chunk.css",
+    "static/js/2.f2065476.chunk.js",
+    "static/css/main.2b068952.chunk.css",
+    "static/js/main.828bdb73.chunk.js"
+  ]
+}
