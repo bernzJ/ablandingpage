@@ -10,7 +10,9 @@ import "animate.css/animate.min.css"
 import "./assets/js/top-button"
 
 window.$ = $;
-const wow = new WOW.WOW();
+const wow = new WOW.WOW({
+    live: false
+});
 wow.init();
 
 ReactDOM.render(<App />, document.getElementById("root"));
