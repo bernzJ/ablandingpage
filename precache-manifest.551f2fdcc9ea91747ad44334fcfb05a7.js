@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4bdcfa91c60630a0521dd1edd8c8cefa",
+    "revision": "579bbf1d48a19bfc5a5ad95445d22092",
     "url": "/ablandingpage/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ablandingpage/static/css/2.76163712.chunk.css"
   },
   {
-    "revision": "7b0eab01e7743a508bc6",
+    "revision": "1b030bea97082c9c57e1",
     "url": "/ablandingpage/static/css/main.2b068952.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ablandingpage/static/js/7.4d1c0c18.chunk.js"
   },
   {
-    "revision": "7b0eab01e7743a508bc6",
-    "url": "/ablandingpage/static/js/main.e24fa428.chunk.js"
+    "revision": "1b030bea97082c9c57e1",
+    "url": "/ablandingpage/static/js/main.deb6b090.chunk.js"
   },
   {
     "revision": "db958b9205907bb247ea",
