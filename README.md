@@ -1,3 +1,8 @@
+# Roadmap
+
+This is a simple landing page that use hash for single page app navigation (react-router is not used).
+If more services are added, implement react router and possibly redux.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
